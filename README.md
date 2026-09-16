@@ -9,9 +9,8 @@ My main areas of focus include:
 - 🤖 **AI Agents & Generative AI**
 - 🧠 **Machine Learning & Data Science**
 - 🏗️ **Data & AI Architecture**
-- 📊 **Forecasting & Decision Intelligence**
-- 🔄 **Supply Chain & Planning**
-- ☁️ **Azure & Databricks**
+- 📊 **Decision Intelligence**
+- 🔄 **Digital Transformation**
 
 ## 🚀 What I'm exploring
 

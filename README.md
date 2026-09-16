@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Mikhail 👋
 
-<!--
-**Mikhail-Balari-A/Mikhail-Balari-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data & AI Manager | AI Agents | Machine Learning | Data & AI Architecture
 
-Here are some ideas to get you started:
+I work at the intersection of **Data, Artificial Intelligence and business transformation**, turning complex business challenges into practical and scalable AI solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main areas of focus include:
+
+- 🤖 **AI Agents & Generative AI**
+- 🧠 **Machine Learning & Data Science**
+- 🏗️ **Data & AI Architecture**
+- 📊 **Forecasting & Decision Intelligence**
+- 🔄 **Supply Chain & Planning**
+- ☁️ **Azure & Databricks**
+
+## 🚀 What I'm exploring
+
+I'm particularly interested in how AI can move beyond experimentation and become part of real business processes and decision-making.
+
+Currently exploring:
+
+- Multi-Agent AI Systems
+- Human-in-the-Loop AI
+- Agentic Software Development
+- Demand Forecasting & Optimization
+- AI for Supply Chain
+- Data Products & Decision Intelligence
+
+## 🎓 Knowledge Sharing
+
+I enjoy sharing knowledge through **talks, mentoring and academic collaboration** around Artificial Intelligence, Data Science and emerging technologies.
+
+---
+
+> **Building AI that doesn't just generate answers — but helps people make better decisions.**
